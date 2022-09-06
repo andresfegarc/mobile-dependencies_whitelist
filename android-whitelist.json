@@ -678,7 +678,7 @@
     {
       "group": "com\\.mercadolibre\\.android\\.instore",
       "name": "instore",
-      "version": "mercadolibre-7\\.\\+|mercadopago-7\\.\\+"
+      "version": "mercadolibre-7\\.\\+|mercadopago-EXPERIMENTAL-9.7.0-SNAPSHOT-20220906154622"
     },
     {
       "group": "com\\.mercadolibre\\.android\\.local\\.storage",
